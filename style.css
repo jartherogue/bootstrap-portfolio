@@ -1,0 +1,94 @@
+body {
+    background: url(https://scontent.fsnc1-1.fna.fbcdn.net/v/t1.0-9/18893342_656538061216619_272594743672228556_n.jpg?oh=8d10c960f6d37e99da32bc9eb22ed1f5&oe=5AF2CC6E) ; 
+}
+#betternav {
+    background-color: black ; 
+    list-style: none ; 
+    text-align: right ; 
+}
+.acplinks {
+    background-color: white ; 
+    padding: 11px ; 
+}
+.betterli {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.jumbotron {
+    background-image: url(http://www.leadernewsroom.com/wp-content/uploads/2017/04/golf.jpg) ; 
+    color: white ; 
+    border: solid 1px white ; 
+}
+.kayak {
+    width: 286px ; 
+    height: 355px ; 
+}
+h1 {
+color: white ; 
+padding: 10px ; 
+}
+.col-xs-8 {
+    border: solid 1px white ;
+}
+.col-sm-12 {
+    margin-bottom: 25px ; 
+}
+#aboutme {
+    background-image: url(https://3.bp.blogspot.com/-qlEjEERXT5c/WRoaiQa3MlI/AAAAAAAALFU/uBRv6vrpvdUdMK5ih-Hzb1so-zxu-_MRwCLcB/s1600/black-twitter-header1500x500-014.jpg) ; 
+    color: white ; 
+    font-size: 20px ; 
+    height: 410px ; 
+}
+#connect {
+    font-size: 23px ; 
+    color: white ; 
+}
+#linkslist {
+    list-style: none ; 
+    padding: 0px 0px 0px 30px ; 
+}
+.sidebar {
+    display: inline-block ; 
+}
+.sidebar img {
+width: 44px ;
+height: 44px ;
+}
+#contactlinks {
+    background: url(https://thumbs.dreamstime.com/b/grey-plume-smoke-black-background-texture-hazy-39678811.jpg) ; 
+    height: 410px ; 
+}
+footer {
+    background-color: black ; 
+    color: blue ; 
+    font-size: 24px ; 
+    text-align: center ;
+    border-top: solid 10px blue ; 
+    padding: 20px 0px ; 
+}
+.contactbox {
+    background: url(https://3.bp.blogspot.com/-qlEjEERXT5c/WRoaiQa3MlI/AAAAAAAALFU/uBRv6vrpvdUdMK5ih-Hzb1so-zxu-_MRwCLcB/s1600/black-twitter-header1500x500-014.jpg) ; 
+    border: solid 1px white ; 
+}
+.messagebox {
+    background-image: url(https://3.bp.blogspot.com/-qlEjEERXT5c/WRoaiQa3MlI/AAAAAAAALFU/uBRv6vrpvdUdMK5ih-Hzb1so-zxu-_MRwCLcB/s1600/black-twitter-header1500x500-014.jpg) ; 
+    color: white ; 
+    font-size: 20px ; 
+    border: white solid 1px ; 
+    height: 410px ; 
+}
+.submitbutton {
+    color: steelblue ;
+    background-color: yellow ;  
+}
+#portfolio {
+    background: url(https://3.bp.blogspot.com/-qlEjEERXT5c/WRoaiQa3MlI/AAAAAAAALFU/uBRv6vrpvdUdMK5ih-Hzb1so-zxu-_MRwCLcB/s1600/black-twitter-header1500x500-014.jpg)
+}
+#hangman {
+    background-color: teal ; 
+    color: white ;
+    font-size: 22px ; 
+}
